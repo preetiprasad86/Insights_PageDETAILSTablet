@@ -1,0 +1,81 @@
+.image-9 {
+  height: 354px;
+  margin-top: 24px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 628px;
+}
+.rectangle-76 {
+  height: 250px;
+  margin-top: 24px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 768px;
+}
+.span {
+  letter-spacing: 0;
+}
+.span0 {
+  color: var(--black);
+}
+.text-1 {
+  color: var(--black);
+  line-height: 24px;
+  margin-right: 40.0px;
+  margin-top: 24px;
+  min-height: 210px;
+  min-width: 630px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 630px;
+}
+.text-2 {
+  color: var(--black);
+  font-weight: 800;
+  height: 24px;
+  line-height: 34px;
+  margin-bottom: -10px;
+  margin-left: 2.0px;
+  margin-top: 24px;
+  min-height: 24px;
+  min-width: 630px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+  width: 630px;
+}
+.text-3 {
+  color: transparent;
+  height: 302px;
+  line-height: 28px;
+  margin-left: 2.0px;
+  margin-top: 24px;
+  min-height: 302px;
+  min-width: 630px;
+  width: 630px;
+}
+.title {
+  color: var(--black);
+  font-weight: 800;
+  height: 24px;
+  line-height: 34px;
+  margin-bottom: -10px;
+  margin-right: 41.0px;
+  margin-top: 32px;
+  min-height: 24px;
+  min-width: 337px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+  width: 337px;
+}
+.x07-insights-page-details-tablet {
+  align-items: center;
+  background-color: var(--desert-storm);
+  display: flex;
+  flex-direction: column;
+  height: 1757px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 768px;
+}
